@@ -15,6 +15,9 @@ Aceste liste sunt destinate blocării domeniilor dăunătoare sau enervante prin
 
    Nume   -----------     Link
 Master Block_List 1 ---- https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist1.txt
-Master Block_List 2 ---- https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist2.txt 
-Master Block_List 3 ---- https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist3.txt                            
+
+Master Block_List 2 ---- https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist2.txt
+
+Master Block_List 3 ---- https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist3.txt
+
 Master Block_List 4 ---- https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist4.txt
